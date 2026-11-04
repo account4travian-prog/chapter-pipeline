@@ -1,0 +1,10 @@
+name: local_prose_revision_ladder
+title: Local prose revision ladder
+description: 'Run a fiction draft through narrow, fixed-order revision passes: sixteen passes in two tiers (mechanical/tool-grounded vs gradient-gated opinion), one defect class per pass, with transition accounting. Use inside the chapter workflow before calling any draft done.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

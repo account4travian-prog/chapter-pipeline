@@ -1,0 +1,10 @@
+name: local_chapter_workflow
+title: Local chapter workflow
+description: 'Run a full novel-chapter production cycle end to end: authority and intake, pre-flight, planning (chapter packet with beat sheet), scene-by-scene drafting, independent critique (external gradient, no stronger model required), diagnostic read, split revision ladder (mechanical vs gradient-gated opinion passes), deterministic audit gate, hardened blind A/B, and release. Repeatable per chapter; nothing is declared done until every phase''s gate passes.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
